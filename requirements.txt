@@ -1,0 +1,6 @@
+torch
+diffusers
+transformers 
+accelerate 
+sentencepiece 
+bitsandbytes>=0.46.1
