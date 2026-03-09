@@ -4,3 +4,9 @@ transformers
 accelerate 
 sentencepiece 
 bitsandbytes>=0.46.1
+
+fastapi 
+uvicorn 
+pydantic-settings 
+python-multipart 
+python-dotenv
