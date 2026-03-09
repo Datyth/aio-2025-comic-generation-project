@@ -5,9 +5,7 @@ import logging
 from transformers import pipeline as text_pipeline
 from dotenv import load_dotenv
 
-import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), "..", ".."))
-from app.models.llm import LLMClient
+from models.llm import LLMClient
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)

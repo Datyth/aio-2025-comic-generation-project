@@ -5,8 +5,8 @@ from typing import List, Dict, Any
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-from app.models.stable_diffusion import DiffusionClient
-from app.modules.image_prompt_generator import ImagePrompt, ImagePromptGenerator
+from models.stable_diffusion import DiffusionClient
+from modules.image_prompt_generator import ImagePrompt, ImagePromptGenerator
 
 class ImageGenerator:
     def __init__(self, diffusion_client: DiffusionClient):

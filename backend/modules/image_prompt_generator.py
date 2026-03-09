@@ -3,8 +3,8 @@ from typing import List
 import logging
 from transformers import pipeline as text_pipeline
 
-from app.models.llm import LLMClient
-from app.modules.story_generator import Scene, Character
+from models.llm import LLMClient
+from modules.story_generator import Scene, Character
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
