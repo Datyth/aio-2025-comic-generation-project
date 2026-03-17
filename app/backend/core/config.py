@@ -2,7 +2,8 @@ import os
 from dotenv import load_dotenv
 from pydantic_settings import BaseSettings
 
-load_dotenv()
+env_path = os.path.join(os.path.dirname(__file__), "..", "..", "..", ".env")
+load_dotenv(env_path)
 
 class Settings(BaseSettings):
     HF_TOKEN: str = os.getenv("HF_TOKEN", "")
