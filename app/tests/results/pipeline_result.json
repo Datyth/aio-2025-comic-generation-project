@@ -1,0 +1,28 @@
+{
+  "generated_images": [
+    {
+      "scene_index": 0,
+      "paragraph": "Trong một khu rừng xanh, một con quạ khát nước tìm thấy một bình nước ngàn năm. Con quạ nhìn thấy bình nước nhưng cổ bình quá cao, nước không thể uống được.",
+      "filename": "scene_01.png",
+      "prompt": "A thirsty crow finds an ancient water jug in a lush forest. The crow gazes up at the jug, its neck too high to reach, the water inside tantalizingly out of grasp., whimsical fable book illustration, highly detailed, vibrant colors, fantasy art style"
+    },
+    {
+      "scene_index": 1,
+      "paragraph": "Con quạ thông minh có ý nghĩ, \"Tại sao không?\". Con quạ bắt đầu gắp từng hòn sỏi bỏ vào bình để nước dâng lên. Mỗi hòn sỏi đều được bỏ vào, nước dần dần dâng lên.",
+      "filename": "scene_02.png",
+      "prompt": "A clever magpie contemplates, \"Why not?\" as it begins to drop small stones into a tall, ancient water jug, slowly raising the water level, each stone precisely placed., whimsical fable book illustration, highly detailed, vibrant colors, fantasy art style"
+    },
+    {
+      "scene_index": 2,
+      "paragraph": "Quá nhiều hòn sỏi đã được bỏ vào, nước đã dâng lên đến ngàn. Con quạ vui vẻ, mở miệng và uống nước. Nước ngọt ngào, quạ cảm thấy hạnh phúc. Con quạ đã học được cách tìm thấy nước, và giờ đây, quạ có thể sống khoẻ mạnh trong khu rừng.",
+      "filename": "scene_03.png",
+      "prompt": "A thirsty magpie, cleverly placing stones into a high-standing water jug, finally reaches the water level. The magpie's beak opens wide, and it drinks with joy., whimsical fable book illustration, highly detailed, vibrant colors, fantasy art style"
+    },
+    {
+      "scene_index": 3,
+      "paragraph": "Con quạ trở thành một con quạ thông minh nhất trong khu rừng, vì đã tìm thấy cách giải quyết vấn đề khát nước. Con quạ không chỉ sống khoẻ mạnh, mà còn có thể giúp đỡ bạn bè khác trong khu rừng, tìm thấy nước để sống.",
+      "filename": "scene_04.png",
+      "prompt": "A clever crow perched on a stony outcropping, surrounded by lush forest foliage, holds a small rock in its beak, with a water-filled ancient jug rising from the earth below, as the crow's clever solution quenches its thirst and inspires hope in its fellow forest creatures., whimsical fable book illustration, highly detailed, vibrant colors, fantasy art style"
+    }
+  ]
+}
